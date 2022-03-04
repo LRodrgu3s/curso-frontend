@@ -15,9 +15,9 @@
 
  ## Instalação do Git
 https://git-scm.com/
- windows: https://git-scm.com/download/win
- Linux (apt-get): sudo apt-get install git
- Mac (brew):brew install git
+ - windows: https://git-scm.com/download/win
+ - Linux (apt-get): sudo apt-get install git
+ - Mac (brew):brew install git
  
  ## Criar conta no GitHub
 
