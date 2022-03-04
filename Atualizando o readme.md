@@ -23,7 +23,7 @@ https://git-scm.com/
 
  ## Clonar o projeto
 
- ## commits
+ ## Commits
  Informação de alteração
  - Após testado todo seu código
 
